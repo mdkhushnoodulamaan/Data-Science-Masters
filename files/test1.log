@@ -1,0 +1,24 @@
+2023-02-21 07:06:00,220 &(message)s
+2023-02-21 07:06:29,936 &(message)s
+2023-02-21 07:06:48,442 &(message)s
+2023-02-21 07:08:17,042 &(message)s
+2023-02-21 07:09:04,207 &(message)s
+2023-02-21 07:09:06,077 &(message)s
+2023-02-21 07:09:07,692 &(message)s
+2023-02-21 07:10:02,605 this is my info log
+2023-02-21 07:10:05,001 this is my debug 
+2023-02-21 07:10:07,585 this is my warning log
+2023-02-21 07:15:04,605 this is my info log
+2023-02-21 07:15:07,726 this is my debug 
+2023-02-21 07:15:11,775 this is my warning log
+2023-02-21 07:18:39,252 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-02-21 07:20:36,684 diff parser start
+2023-02-21 07:20:36,684 line_lengths old: 1; new: 1
+2023-02-21 07:20:36,685 -> code[replace] old[1:1] new[1:1]
+2023-02-21 07:20:36,685 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-21 07:20:36,686 diff parser end
+2023-02-21 07:20:50,432 diff parser start
+2023-02-21 07:20:50,432 line_lengths old: 1; new: 1
+2023-02-21 07:20:50,432 -> code[replace] old[1:1] new[1:1]
+2023-02-21 07:20:50,433 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-21 07:20:50,433 diff parser end
